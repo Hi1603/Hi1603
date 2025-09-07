@@ -53,7 +53,7 @@ Tools & Platforms: Flask, Gradio, Docker, Git, Linux, Tableau, Canvas API
 </a>
 <br />
 <p>
-<a href="https://github.com/[YOUR-USERNAME]/FitMe-Generative-AI" target="_blank">
+<a href="https://github.com/Hi1603/FitMe-Generative-AI" target="_blank">
 <b>View Project & Code</b>
 </a>
 </p>

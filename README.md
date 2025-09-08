@@ -33,12 +33,11 @@ Tools & Platforms: Flask, Gradio, Docker, Git, Linux, Tableau, Canvas API
 <div align="center">
 <a href="https://github.com/Hi1603/FitMe" target="_blank">
 <!-- IMPORTANT: Create a GIF of your rover navigating in RViz/Gazebo and replace the src below. Use a tool like ezgif.com -->
-<img src="https://www.google.com/search?q=https://placehold.co/400x250/333/fff%3Ftext%3DRover%2BNavigation%2BGIF" alt="FitMe" style="max-width:100%;" />
+<img src="https://www.google.com/search?q=https://placehold.co/400x250/333/fff%3Ftext%3DRover%2BNavigation%2BGIF" alt="Go to Project" style="max-width:100%;" />
 </a>
 <br />
 <p>
 <a href="https://github.com/Hi1603/" target="_blank">
-<b>View Project & Code</b>
 </a>
 </p>
 <p align="left">A complete autonomous navigation stack built in ROS for a physical rover. This system uses Hector SLAM for mapping and a YOLOv8n perception model to achieve a <strong>100% success rate in real-time obstacle avoidance</strong>.</p>
@@ -49,12 +48,11 @@ Tools & Platforms: Flask, Gradio, Docker, Git, Linux, Tableau, Canvas API
 <div align="center">
 <a href="https://github.com/Hi1603/AI-Art-Transfer" target="_blank">
 <!-- IMPORTANT: Create a GIF showing a before/after image transformation and replace the src below. -->
-<img src="https://www.google.com/search?q=https://placehold.co/400x250/333/fff%3Ftext%3DFitMe%2BDemo%2BGIF" alt="FitMe Project" style="max-width:100%;" />
+<img src="https://www.google.com/search?q=https://placehold.co/400x250/333/fff%3Ftext%3DFitMe%2BDemo%2BGIF" alt="Go to Project" style="max-width:100%;" />
 </a>
 <br />
 <p>
 <a href="https://github.com/Hi1603/AI-Art-Transfer" target="_blank">
-<b>View Project & Code</b>
 </a>
 </p>
 <p align="left">An AI system using Stable Diffusion and LoRA fine-tuning to generate realistic body transformations. By optimizing the model, I <strong>reduced perceived visual distortion by 7.7%</strong> compared to the baseline.</p>

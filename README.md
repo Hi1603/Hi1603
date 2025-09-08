@@ -37,7 +37,7 @@ Tools & Platforms: Flask, Gradio, Docker, Git, Linux, Tableau, Canvas API
 </a>
 <br />
 <p>
-<a href="https://github.com/[YOUR-USERNAME]/Autonomous-Rover-Navigation" target="_blank">
+<a href="https://github.com/Hi1603/A" target="_blank">
 <b>View Project & Code</b>
 </a>
 </p>
@@ -47,13 +47,13 @@ Tools & Platforms: Flask, Gradio, Docker, Git, Linux, Tableau, Canvas API
 <td width="50%" valign="top">
 <h3 align="center">🎨 Generative AI Fitness Visualization</h3>
 <div align="center">
-<a href="https://github.com/[YOUR-USERNAME]/FitMe-Generative-AI" target="_blank">
+<a href="https://github.com/Hi1603/FitMe-Generative-AI" target="_blank">
 <!-- IMPORTANT: Create a GIF showing a before/after image transformation and replace the src below. -->
 <img src="https://www.google.com/search?q=https://placehold.co/400x250/333/fff%3Ftext%3DFitMe%2BDemo%2BGIF" alt="FitMe Project" style="max-width:100%;" />
 </a>
 <br />
 <p>
-<a href="https://github.com/Hi1603/FitMe-Generative-AI" target="_blank">
+<a href="https://github.com/Hi1603/FitMe" target="_blank">
 <b>View Project & Code</b>
 </a>
 </p>

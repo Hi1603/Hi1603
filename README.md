@@ -29,15 +29,15 @@ Tools & Platforms: Flask, Gradio, Docker, Git, Linux, Tableau, Canvas API
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">🤖 Autonomous Rover Navigation</h3>
+<h3 align="center">FitMe</h3>
 <div align="center">
-<a href="https://github.com/[YOUR-USERNAME]/Autonomous-Rover-Navigation" target="_blank">
+<a href="https://github.com/Hi1603/FitMe" target="_blank">
 <!-- IMPORTANT: Create a GIF of your rover navigating in RViz/Gazebo and replace the src below. Use a tool like ezgif.com -->
-<img src="https://www.google.com/search?q=https://placehold.co/400x250/333/fff%3Ftext%3DRover%2BNavigation%2BGIF" alt="Autonomous Rover Navigation" style="max-width:100%;" />
+<img src="https://www.google.com/search?q=https://placehold.co/400x250/333/fff%3Ftext%3DRover%2BNavigation%2BGIF" alt="FitMe" style="max-width:100%;" />
 </a>
 <br />
 <p>
-<a href="https://github.com/Hi1603/A" target="_blank">
+<a href="https://github.com/Hi1603/" target="_blank">
 <b>View Project & Code</b>
 </a>
 </p>
@@ -53,7 +53,7 @@ Tools & Platforms: Flask, Gradio, Docker, Git, Linux, Tableau, Canvas API
 </a>
 <br />
 <p>
-<a href="https://github.com/Hi1603/FitMe" target="_blank">
+<a href="https://github.com/Hi1603/AI-Art-Transfer" target="_blank">
 <b>View Project & Code</b>
 </a>
 </p>

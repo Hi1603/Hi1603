@@ -1,4 +1,4 @@
-Sanjay Sampathkumar | AI & Robotics Engineer
+Sanjay Sampathkumar | AI & Robotics Student
 <p align="left">
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/sanjay160302" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
@@ -47,7 +47,7 @@ Tools & Platforms: Flask, Gradio, Docker, Git, Linux, Tableau, Canvas API
 <td width="50%" valign="top">
 <h3 align="center">🎨 Generative AI Fitness Visualization</h3>
 <div align="center">
-<a href="https://github.com/Hi1603/FitMe-Generative-AI" target="_blank">
+<a href="https://github.com/Hi1603/AI-Art-Transfer" target="_blank">
 <!-- IMPORTANT: Create a GIF showing a before/after image transformation and replace the src below. -->
 <img src="https://www.google.com/search?q=https://placehold.co/400x250/333/fff%3Ftext%3DFitMe%2BDemo%2BGIF" alt="FitMe Project" style="max-width:100%;" />
 </a>

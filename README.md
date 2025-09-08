@@ -58,7 +58,7 @@ I am a results-oriented Master's student in Artificial Intelligence with a speci
 <td width="50%" valign="top">
 <h3 align="center">🤖 Autonomous Rover Navigation</h3>
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/Hi1603/Autonomous-Rover-Navigation" target="_blank">
+<a href="https://github.com/Hi1603/Autonomous-Rover-Navigation" target="_blank">
 <!-- IMPORTANT: Create a GIF of your rover navigating in RViz/Gazebo and replace the placeholder -->
 <img src="https://www.google.com/search?q=https://placehold.co/400x250/333/fff%3Ftext%3DRover%2BNavigation%2BGIF" alt="Autonomous Rover Navigation Project"/>
 </a>
@@ -71,7 +71,7 @@ A complete autonomous navigation stack in ROS for a mini-rover. The system fuses
 <td width="50%" valign="top">
 <h3 align="center">💪 FitMe: Generative AI Fitness Visualization</h3>
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/Hi1603/FitMe-Generative-AI" target="_blank">
+<a href="https://github.com/Hi1603/FitMe" target="_blank">
 <!-- IMPORTANT: Create a GIF showing a before/after image transformation and replace the placeholder -->
 <img src="https://www.google.com/search?q=https://placehold.co/400x250/333/fff%3Ftext%3DFitMe%2BDemo%2BGIF" alt="FitMe Project"/>
 </a>
@@ -86,7 +86,7 @@ An AI system using Stable Diffusion and LoRA fine-tuning to generate realistic b
 <td width="50%" valign="top">
 <h3 align="center">🎨 Real-Time AI Art Transfer</h3>
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/Hi1603/AI-Art-Transfer" target="_blank">
+<a href="https://github.com/Hi1603/AI-Art-Transfer" target="_blank">
 <!-- IMPORTANT: Create a GIF showing your art transfer application in action and replace the placeholder -->
 <img src="https://www.google.com/search?q=https://placehold.co/400x250/333/fff%3Ftext%3DArt%2BTransfer%2BGIF" alt="AI Art Transfer Project"/>
 </a>
@@ -99,7 +99,7 @@ A full-stack web platform for real-time style transfer. It uses a Flask backend 
 <td width="50%" valign="top">
 <h3 align="center">🎵 Voice-Controlled Music Finder</h3>
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/Hi1603/Voice-Music-Finder" target="_blank">
+<a href="https://github.com/Hi1603/Music-Finder-Using-Voice" target="_blank">
 <!-- IMPORTANT: Create a GIF of your music finder app working and replace the placeholder -->
 <img src="https://www.google.com/search?q=https://placehold.co/400x250/333/fff%3Ftext%3DMusic%2BFinder%2BGIF" alt="Music Finder Project"/>
 </a>

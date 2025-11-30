@@ -13,11 +13,11 @@ I am a results-oriented Master's student in Artificial Intelligence with a speci
 
 I’m currently exploring advancements in humanoid robotics and reinforcement learning.
 
- I have hands-on experience with Diffusion Models, Transformers, and SLAM.
+I have hands-on experience with Diffusion Models, Transformers, and SLAM.
 
- I'm actively seeking a Werkstudent, Internship, or Master Thesis role in the GenAI and ML domain.
+I'm actively seeking a Werkstudent, Internship, or Master Thesis role in the GenAI and ML domain.
 
- My Tech Stack
+My Tech Stack
 <p align="left">
 <strong>Programming & Data:</strong><br>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="python"/> </a>
@@ -52,18 +52,19 @@ I’m currently exploring advancements in humanoid robotics and reinforcement le
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
 </p>
 
- Featured Projects
+Featured Projects
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/Hi1603/Autonomous-Rover-Navigation" target="_blank">
 <h3 align="center"> Autonomous Rover Navigation</h3>
 <div align="center">
-<a href="https://github.com/Hi1603/Autonomous-Rover-Navigation" target="">
+
 <!-- IMPORTANT: Create a GIF of your rover navigating in RViz/Gazebo and replace the placeholder -->
 </a>
 <br />
 <p align="left">
-A complete autonomous navigation stack in ROS for a mini-rover. The system fuses LIDAR and camera data, using Hector SLAM and YOLOv8n to achieve a <strong>100% success rate in obstacle avoidance</strong>.
+A complete autonomous navigation stack in ROS for a mini-rover. The system fuses LIDAR and camera data, using Hector SLAM and YOLOv8n to achieve a <strong>100% success rate in obstacle avoidance. </strong>
 </p>
 </div>
 </td>
@@ -99,7 +100,7 @@ A full-stack web platform for real-time style transfer. It uses a Flask backend 
 <a href="https://github.com/Hi1603/Music-Finder-Using-Voice" target="_blank">
 <!-- IMPORTANT: Create a GIF of your music finder app working and replace the placeholder -->
 </a>
-<br />
+<br/>
 <p align="left">
 A Django and MySQL application that uses speech recognition and audio fingerprinting to identify and retrieve songs from a database based on voice commands.
 </p>

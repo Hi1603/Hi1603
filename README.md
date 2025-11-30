@@ -56,7 +56,6 @@ Featured Projects
 <table>
 <tr>
 <td width="50%" valign="top">
-
 <h3 align="center"> Autonomous Rover Navigation</h3>
 <a href="https://github.com/Hi1603/Autonomous-Rover-Navigation" target="_blank">
 <div align="center">

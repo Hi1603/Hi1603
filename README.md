@@ -58,7 +58,7 @@ I’m currently exploring advancements in humanoid robotics and reinforcement le
 <td width="50%" valign="top">
 <h3 align="center"> Autonomous Rover Navigation</h3>
 <div align="center">
-<a href="https://github.com/Hi1603/Autonomous-Rover-Navigation" target="_blank">
+<a href="https://github.com/Hi1603/Autonomous-Rover-Navigation" target="">
 <!-- IMPORTANT: Create a GIF of your rover navigating in RViz/Gazebo and replace the placeholder -->
 </a>
 <br />

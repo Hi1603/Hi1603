@@ -11,13 +11,13 @@ Sanjay Sampathkumar | AI & Robotics Student
 Hi there 👋
 I am a results-oriented Master's student in Artificial Intelligence with a specialization in Generative AI, Computer Vision, and Robotics. I am passionate about building and deploying intelligent systems that solve real-world problems. My project work involves fine-tuning advanced models like Stable Diffusion and developing full autonomous navigation stacks for physical robots using ROS.
 
-🤖 I’m currently exploring advancements in humanoid robotics and reinforcement learning.
+I’m currently exploring advancements in humanoid robotics and reinforcement learning.
 
-🧠 I have hands-on experience with Diffusion Models, Transformers, and SLAM.
+ I have hands-on experience with Diffusion Models, Transformers, and SLAM.
 
-🚀 I'm actively seeking a Werkstudent, Internship, or Master Thesis role in the GenAI and ML domain.
+ I'm actively seeking a Werkstudent, Internship, or Master Thesis role in the GenAI and ML domain.
 
-🛠️ My Tech Stack
+ My Tech Stack
 <p align="left">
 <strong>Programming & Data:</strong><br>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="python"/> </a>
@@ -52,11 +52,11 @@ I am a results-oriented Master's student in Artificial Intelligence with a speci
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
 </p>
 
-✨ Featured Projects
+ Featured Projects
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">🤖 Autonomous Rover Navigation</h3>
+<h3 align="center"> Autonomous Rover Navigation</h3>
 <div align="center">
 <a href="https://github.com/Hi1603/Autonomous-Rover-Navigation" target="_blank">
 <!-- IMPORTANT: Create a GIF of your rover navigating in RViz/Gazebo and replace the placeholder -->
@@ -69,7 +69,7 @@ A complete autonomous navigation stack in ROS for a mini-rover. The system fuses
 </div>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">💪 FitMe: Generative AI Fitness Visualization</h3>
+<h3 align="center"> FitMe: Generative AI Fitness Visualization</h3>
 <div align="center">
 <a href="https://github.com/Hi1603/FitMe" target="_blank">
 <!-- IMPORTANT: Create a GIF showing a before/after image transformation and replace the placeholder -->
@@ -84,7 +84,7 @@ An AI system using Stable Diffusion and LoRA fine-tuning to generate realistic b
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">🎨 Real-Time AI Art Transfer</h3>
+<h3 align="center"> Real-Time AI Art Transfer</h3>
 <div align="center">
 <a href="https://github.com/Hi1603/AI-Art-Transfer" target="_blank">
 <!-- IMPORTANT: Create a GIF showing your art transfer application in action and replace the placeholder -->
@@ -97,7 +97,7 @@ A full-stack web platform for real-time style transfer. It uses a Flask backend 
 </div>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">🎵 Voice-Controlled Music Finder</h3>
+<h3 align="center"> Voice-Controlled Music Finder</h3>
 <div align="center">
 <a href="https://github.com/Hi1603/Music-Finder-Using-Voice" target="_blank">
 <!-- IMPORTANT: Create a GIF of your music finder app working and replace the placeholder -->

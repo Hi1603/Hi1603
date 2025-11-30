@@ -60,7 +60,6 @@ I’m currently exploring advancements in humanoid robotics and reinforcement le
 <div align="center">
 <a href="https://github.com/Hi1603/Autonomous-Rover-Navigation" target="_blank">
 <!-- IMPORTANT: Create a GIF of your rover navigating in RViz/Gazebo and replace the placeholder -->
-<img src="https://www.google.com/search?q=https://placehold.co/400x250/333/fff%3Ftext%3DRover%2BNavigation%2BGIF" alt="Autonomous Rover Navigation Project"/>
 </a>
 <br />
 <p align="left">
@@ -73,7 +72,6 @@ A complete autonomous navigation stack in ROS for a mini-rover. The system fuses
 <div align="center">
 <a href="https://github.com/Hi1603/FitMe" target="_blank">
 <!-- IMPORTANT: Create a GIF showing a before/after image transformation and replace the placeholder -->
-<img src="https://www.google.com/search?q=https://placehold.co/400x250/333/fff%3Ftext%3DFitMe%2BDemo%2BGIF" alt="FitMe Project"/>
 </a>
 <br />
 <p align="left">
@@ -88,7 +86,6 @@ An AI system using Stable Diffusion and LoRA fine-tuning to generate realistic b
 <div align="center">
 <a href="https://github.com/Hi1603/AI-Art-Transfer" target="_blank">
 <!-- IMPORTANT: Create a GIF showing your art transfer application in action and replace the placeholder -->
-<img src="https://www.google.com/search?q=https://placehold.co/400x250/333/fff%3Ftext%3DArt%2BTransfer%2BGIF" alt="AI Art Transfer Project"/>
 </a>
 <br />
 <p align="left">
@@ -101,7 +98,6 @@ A full-stack web platform for real-time style transfer. It uses a Flask backend 
 <div align="center">
 <a href="https://github.com/Hi1603/Music-Finder-Using-Voice" target="_blank">
 <!-- IMPORTANT: Create a GIF of your music finder app working and replace the placeholder -->
-<img src="https://www.google.com/search?q=https://placehold.co/400x250/333/fff%3Ftext%3DMusic%2BFinder%2BGIF" alt="Music Finder Project"/>
 </a>
 <br />
 <p align="left">
